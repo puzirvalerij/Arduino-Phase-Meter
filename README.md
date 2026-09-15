@@ -207,19 +207,7 @@ Planned features and improvements:
 * [ ] Improve LCD interface
 * [ ] Support additional display types
 
-## License
 
-This project is licensed under the **MIT License**.
-
-See the [`LICENSE`](LICENSE) file for details.
-
-## Author
-
-**Valeriy**
-
-Arduino Phase Meter project.
-
----
 
 ⭐ If you find this project useful, consider giving it a star!
 
